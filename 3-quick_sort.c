@@ -20,6 +20,7 @@ void swap(int *element_a, int *element_b)
  * @first: first element
  * @last: The last element
  * @size: size
+ * Return: value of m
   */
 int lomuto_split(int *array, int first, int last, size_t size)
 {
