@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * arr_max - array max
+ * array_max - array max
  * @array: array
  * @size: size of the array
  * Return: max
